@@ -55,7 +55,7 @@ public class WordListAdapter extends
         }
 
         @Override
-        public void onClick(View v) {
+        public void onClick(View view) {
             // Get the position of the item that was clicked
             int mPosition = getLayoutPosition();
             // Use that to access the affected item in mWordList.

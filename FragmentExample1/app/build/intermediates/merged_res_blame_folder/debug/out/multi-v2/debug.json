@@ -871,6 +871,23 @@
             "outputFile": "com.example.android.fragmentexample1.app-merged_res-9:/values_values.arsc.flat",
             "map": [
                 {
+                    "source": "C:\\Users\\default.LAPTOP-6NP8KO3R\\AndroidStudioProjects\\FragmentExample1\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "20,18,19,21",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "770,672,719,816",
+                        "endColumns": "45,46,50,51",
+                        "endOffsets": "811,714,765,863"
+                    },
+                    "to": {
+                        "startLines": "118,119,120,142",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "6189,6235,6282,7620",
+                        "endColumns": "45,46,50,51",
+                        "endOffsets": "6230,6277,6328,7667"
+                    }
+                },
+                {
                     "source": "C:\\Users\\default.LAPTOP-6NP8KO3R\\.gradle\\caches\\transforms-3\\1b34336538460a7e1e90f90bc0b0b52a\\transformed\\constraint-layout-1.0.2\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,7,8,11,14,15,18,21,22,23,24,28,29,30,31,36,37,38,41,44,45,48,51,54,57,58,61,64,65,70,71,75,76,77,78,79,80,81,82,83,84,85,91,92,93",
@@ -890,7 +907,26 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\default.LAPTOP-6NP8KO3R\\Downloads\\android-advanced-starter-apps-master\\FragmentExample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\default.LAPTOP-6NP8KO3R\\AndroidStudioProjects\\FragmentExample1\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "671",
+                        "endLines": "24",
+                        "endColumns": "12",
+                        "endOffsets": "990"
+                    },
+                    "to": {
+                        "startLines": "361",
+                        "startColumns": "4",
+                        "startOffsets": "23021",
+                        "endLines": "366",
+                        "endColumns": "12",
+                        "endOffsets": "23305"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\default.LAPTOP-6NP8KO3R\\AndroidStudioProjects\\FragmentExample1\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "17,21,25,36,39,41,29,31,35,32,20,24,28,30",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -928,7 +964,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\default.LAPTOP-6NP8KO3R\\Downloads\\android-advanced-starter-apps-master\\FragmentExample1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "source": "C:\\Users\\default.LAPTOP-6NP8KO3R\\AndroidStudioProjects\\FragmentExample1\\app\\src\\main\\res\\values\\dimens.xml",
                     "from": {
                         "startLines": "25,22,20,24,26,23,21,19,18",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -942,42 +978,6 @@
                         "startOffsets": "14355,14402,14959,15620,15669,16690,16737,16781,16825",
                         "endColumns": "46,42,49,48,42,46,43,43,45",
                         "endOffsets": "14397,14440,15004,15664,15707,16732,16776,16820,16866"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\default.LAPTOP-6NP8KO3R\\Downloads\\android-advanced-starter-apps-master\\FragmentExample1\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "20,18,19,21",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "770,672,719,816",
-                        "endColumns": "45,46,50,51",
-                        "endOffsets": "811,714,765,863"
-                    },
-                    "to": {
-                        "startLines": "118,119,120,142",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "6189,6235,6282,7620",
-                        "endColumns": "45,46,50,51",
-                        "endOffsets": "6230,6277,6328,7667"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\default.LAPTOP-6NP8KO3R\\Downloads\\android-advanced-starter-apps-master\\FragmentExample1\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "19",
-                        "startColumns": "4",
-                        "startOffsets": "671",
-                        "endLines": "24",
-                        "endColumns": "12",
-                        "endOffsets": "990"
-                    },
-                    "to": {
-                        "startLines": "361",
-                        "startColumns": "4",
-                        "startOffsets": "23021",
-                        "endLines": "366",
-                        "endColumns": "12",
-                        "endOffsets": "23305"
                     }
                 },
                 {

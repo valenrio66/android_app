@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\default.LAPTOP-6NP8KO3R\\Downloads\\android-advanced-starter-apps-master\\RecyclerView_start\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tl\\values-tl.xml",
+            "outputFile": "com.example.android.recyclerview.app-mergeDebugResources-9:/values-tl/values-tl.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\default.LAPTOP-6NP8KO3R\\.gradle\\caches\\transforms-2\\files-2.1\\e34959173497ceba9cee14729c6580d1\\appcompat-v7-26.1.0\\res\\values-tl\\values-tl.xml",
+                    "source": "C:\\Users\\default.LAPTOP-6NP8KO3R\\.gradle\\caches\\transforms-3\\5df28af41dee9c92e43fc0a3c28fbe59\\transformed\\appcompat-v7-26.1.0\\res\\values-tl\\values-tl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
