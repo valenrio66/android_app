@@ -1,0 +1,4 @@
+#Wed Oct 19 13:22:59 ICT 2022
+base.0=C\:\\Users\\default.LAPTOP-6NP8KO3R\\AndroidStudioProjects\\FragmentExample1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
